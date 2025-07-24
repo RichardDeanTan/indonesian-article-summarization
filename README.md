@@ -45,18 +45,18 @@ Klik link berikut untuk Model fine-tuned tersedia di Hugging Face Hub:
 - ✅ **Example Articles |** Contoh artikel untuk testing aplikasi
 
 ## ⚙️ Tech Stack
-- **Deep Learning ~** PyTorch, Transformers (Hugging Face)
-- **Model ~** Fine-tuned IndoBART
-- **Data Processing ~** Pandas, NumPy
-- **Model Hub ~** Hugging Face Hub
-- **Deployment ~** Streamlit Cloud
+- **Deep Learning** ~ PyTorch, Transformers (Hugging Face)
+- **Model** ~ Fine-tuned IndoBART
+- **Data Processing** ~ Pandas, NumPy
+- **Model Hub** ~ Hugging Face Hub
+- **Deployment** ~ Streamlit Cloud
 
 ## 🧠 Model Details
-- **Base Model ~** IndoBART (Indonesian BART)
-- **Task ~** Text Summarization
-- **Language ~** Indonesian (Bahasa Indonesia)
-- **Fine-tuning ~** Custom dataset dengan 200 artikel Indonesia
-- **Evaluation Metrics ~** ROUGE-1, ROUGE-2, ROUGE-L scores
+- **Base Model** ~ IndoBART (Indonesian BART)
+- **Task** ~ Text Summarization
+- **Language** ~ Indonesian (Bahasa Indonesia)
+- **Fine-tuning** ~ Custom dataset dengan 200 artikel Indonesia
+- **Evaluation Metrics** ~ ROUGE-1, ROUGE-2, ROUGE-L scores
 
 ## ⭐ Deployment
 Aplikasi ini di-deploy menggunakan:
