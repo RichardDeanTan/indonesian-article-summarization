@@ -110,8 +110,7 @@ def main():
         
         st.info(f"""
         **🤗 Hugging Face Model:** `{MODEL_NAME}`  
-        - **Language:** Indonesian  
-        - **Base Model:** IndoBART
+        - **Language:** Indonesia  
         - **Original Model:** {training_config.get('original_model', 'N/A')}
         """)
         
@@ -119,7 +118,6 @@ def main():
             if "test_rouge1" in training_config:
                 st.info(f"""
                 **Test Metrics:**
-                - **Epochs:** {training_config.get('num_train_epochs', 'N/A')}  
                 - **ROUGE-1 Score:** {training_config.get('test_rouge1', 0):.4f}
                 - **ROUGE-2 Score:** {training_config.get('test_rouge2', 0):.4f}
                 - **ROUGE-L Score:** {training_config.get('test_rougeL', 0):.4f}
