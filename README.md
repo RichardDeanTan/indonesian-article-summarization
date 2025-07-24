@@ -36,27 +36,27 @@ Klik link berikut untuk Model fine-tuned tersedia di Hugging Face Hub:
 #### 👉 [huggingface - RichTan/indobart-custom](https://huggingface.co/RichTan/indobart-custom)
 
 ## 💡 Fitur
-- ✅ **Automatic Summarization:** Menghasilkan ringkasan otomatis dari artikel bahasa Indonesia
-- ✅ **Interactive Web Interface:** Interface yang user-friendly menggunakan Streamlit
-- ✅ **Real-time Processing:** Prediksi ringkasan secara real-time
-- ✅ **Customizable Parameters:** Mengatur panjang ringkasan dan parameter beam search
-- ✅ **Model Metrics:** Menampilkan ROUGE scores dan informasi model
-- ✅ **Download Feature:** Download hasil ringkasan dalam format .txt
-- ✅ **Example Articles:** Contoh artikel untuk testing aplikasi
+- ✅ **Automatic Summarization |** Menghasilkan ringkasan otomatis dari artikel bahasa Indonesia
+- ✅ **Interactive Web Interface |** Interface yang user-friendly menggunakan Streamlit
+- ✅ **Real-time Processing |** Prediksi ringkasan secara real-time
+- ✅ **Customizable Parameters |** Mengatur panjang ringkasan dan parameter beam search
+- ✅ **Model Metrics |** Menampilkan ROUGE scores dan informasi model
+- ✅ **Download Feature |** Download hasil ringkasan dalam format .txt
+- ✅ **Example Articles |** Contoh artikel untuk testing aplikasi
 
 ## ⚙️ Tech Stack
-- **Deep Learning:** PyTorch, Transformers (Hugging Face)
-- **Model:** Fine-tuned IndoBART
-- **Data Processing:** Pandas, NumPy
-- **Model Hub:** Hugging Face Hub
-- **Deployment:** Streamlit Cloud
+- **Deep Learning ~** PyTorch, Transformers (Hugging Face)
+- **Model ~** Fine-tuned IndoBART
+- **Data Processing ~** Pandas, NumPy
+- **Model Hub ~** Hugging Face Hub
+- **Deployment ~** Streamlit Cloud
 
 ## 🧠 Model Details
-- **Base Model:** IndoBART (Indonesian BART)
-- **Task:** Text Summarization
-- **Language:** Indonesian (Bahasa Indonesia)
-- **Fine-tuning:** Custom dataset dengan 200 artikel Indonesia
-- **Evaluation Metrics:** ROUGE-1, ROUGE-2, ROUGE-L scores
+- **Base Model ~** IndoBART (Indonesian BART)
+- **Task ~** Text Summarization
+- **Language ~** Indonesian (Bahasa Indonesia)
+- **Fine-tuning ~** Custom dataset dengan 200 artikel Indonesia
+- **Evaluation Metrics ~** ROUGE-1, ROUGE-2, ROUGE-L scores
 
 ## ⭐ Deployment
 Aplikasi ini di-deploy menggunakan:
