@@ -1,0 +1,5 @@
+streamlit==1.40.1
+torch==2.6.0
+transformers==4.53.3
+huggingface_hub==0.33.5
+requests
