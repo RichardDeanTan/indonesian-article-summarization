@@ -266,7 +266,7 @@ def main():
     st.markdown("---")
     st.markdown("""
     <div style='text-align: center; color: gray;'>
-        <p>Richard Dean Tanjaya | Github: <a href="https://github.com/RichardDeanTan" target="_blank">@RichardDeanTan</a></p>
+        <p>Richard Dean Tanjaya | Github: <a href="https://github.com/RichardDeanTan/indonesian-article-summarization" target="_blank">@RichardDeanTan</a></p>
         <p>Model: <a href="https://huggingface.co/RichTan/indobart-custom" target="_blank">🤗 RichTan/indobart-custom</a></p>
     </div>
     """, unsafe_allow_html=True)
